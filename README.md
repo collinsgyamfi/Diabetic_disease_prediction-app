@@ -1,6 +1,6 @@
-# Diabetic_disease_prediction-app
-diabetic disease prediction application using a machine learning algorithm
-# Diabetes Prediction Project
+# Diabetic_disease_prediction-app project
+diabetic disease prediction application using a machine learning algorithm(xgboost) and build app using streamlit 
+
 
 ## Input Features for Testing the Project
 
