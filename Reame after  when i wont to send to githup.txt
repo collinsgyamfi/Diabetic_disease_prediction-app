@@ -1,0 +1,29 @@
+
+
+README if i upload to my github account
+# Diabetes Prediction Model
+
+🔍 **Project Overview**  
+ML model predicting diabetes using health metrics (XGBoost optimized for accuracy/precision/recall).
+
+⚙️ **Features**  
+- Data preprocessing (missing values, outliers, scaling)  
+- Hyperparameter tuning (GridSearchCV)  
+- Evaluation metrics & visualizations  
+- Saved model for deployment  
+
+🚀 **Usage**  
+1. Run `preprocessing.ipynb`  
+2. Run `diabetes_model.ipynb`  
+3. Use `diabetes_xgboost_model.pkl` for predictions  
+
+📊 **Key Metrics**  
+- Accuracy: ~90%  
+- Precision/Recall: ~88-92%  
+- ROC AUC: ~94%  
+
+📦 **Requirements**  
+Python 3.8+, pandas, scikit-learn, xgboost, imbalanced-learn  
+
+📄 **Dataset**  
+`diabetes.csv` → `diabetes_processed.csv` after cleaning  
